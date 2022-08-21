@@ -1,6 +1,6 @@
-### Atividade da disciplina de Linguagens de Script do curso de Sistemas para Internet
+## Atividade da disciplina de Linguagens de Script do curso de Sistemas para Internet
 
-##### Objetivo:
+### Objetivo:
 
 Fazendo uso de JavaScript, desenvolver os seguintes programas:
 
