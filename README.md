@@ -1,4 +1,6 @@
-## Atividade da disciplina de Linguagens de Script do curso de Sistemas para Internet
+## LS - Atividade 01
+
+1ª Atividade da disciplina de Linguagens de Script do curso de Sistemas para Internet, IFPB Campus João Pessoa
 
 ### Objetivo:
 
