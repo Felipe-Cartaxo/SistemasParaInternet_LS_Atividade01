@@ -12,7 +12,7 @@ function calculadora (num1, num2, op) {
 		case '/':
 			return num1 / num2
 		default:
-			console.log('Por favor, informe uma operação válida (+, -, * ou /).') // Para o caso do usuário enviar uma operação inválida
+			console.log('Por favor, informe uma operação válida.') // Para o caso do usuário enviar uma operação inválida
 	}
 }
 
