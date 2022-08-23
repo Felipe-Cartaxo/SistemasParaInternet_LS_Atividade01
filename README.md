@@ -7,5 +7,5 @@
 Fazendo uso de JavaScript, desenvolver os seguintes programas:
 
 - Calculadora
-- Cálculo a área de um círculo
+- Cálculo da área de um círculo
 - Verificação e classifição de triângulos
